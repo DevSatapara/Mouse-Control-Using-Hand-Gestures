@@ -15,6 +15,7 @@ This repository contains code for controlling the mouse cursor using hand gestur
 - OpenCV
 - NumPy
 - PyAutoGUI
+- Should be sitting in the ideal position and distance from the camera should be at least greater than 1 feet.
 
  **Install Dependencies:**
 pip install opencv-python pyautogui mediapipe
