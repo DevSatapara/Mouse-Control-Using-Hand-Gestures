@@ -16,7 +16,7 @@ This repository contains code for controlling the mouse cursor using hand gestur
 - PyAutoGUI
 
  **Install Dependencies:**
-pip install opencv-python numpy pyautogui
+pip install opencv-python numpy pyautogui mediapipe
 
 ## Acknowledgments
 
