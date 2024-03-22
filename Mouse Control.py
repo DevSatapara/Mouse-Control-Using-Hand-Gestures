@@ -48,7 +48,6 @@ while True:
 
         dist_index_diff = abs(y1_left - y1_right)
         dist_thumb_index_left = abs(y2_left - y1_left)
-        print(dist_thumb_index_left)
 
         # Perform mouse click if thumb and index finger of left hand are close together
         if dist_thumb_index_left < 23:
