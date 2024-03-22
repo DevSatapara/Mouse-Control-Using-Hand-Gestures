@@ -6,17 +6,18 @@ This repository contains code for controlling the mouse cursor using hand gestur
 
 - **Hand Gesture Recognition:** Utilizes computer vision techniques to recognize hand gestures captured by a webcam.
 - **Mouse Control:** Maps detected hand gestures to corresponding mouse movements, enabling control of the mouse cursor.
+- **Volume and Click Control:** Performs the function of adjusting the volume my using the index finger of both the hands. Also perofrms single and double click.
 - **User-Friendly Interface:** Simple and intuitive interface for users to interact with the computer using hand gestures.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - OpenCV
 - NumPy
 - PyAutoGUI
 
  **Install Dependencies:**
-pip install opencv-python numpy pyautogui mediapipe
+pip install opencv-python pyautogui mediapipe
 
 ## Acknowledgments
 
